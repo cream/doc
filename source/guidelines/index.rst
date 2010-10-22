@@ -1,0 +1,5 @@
+Guidelines
+==========
+
+General Principles
+------------------
