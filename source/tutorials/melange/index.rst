@@ -1,9 +1,13 @@
 Melange
 =======
 
-Contents:
+Widget Writing Guide
+--------------------
 
 .. toctree::
-    :maxdepth: 2
 
-    widgetwriting
+    introduction
+    manifests
+    skins
+    python
+    python-js
