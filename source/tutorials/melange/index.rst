@@ -11,3 +11,4 @@ Widget Writing Guide
     skins
     python
     python-js
+    configuration
